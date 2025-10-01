@@ -14,7 +14,7 @@ void hitung(int* x, int y, long long* z) {
 
 int main() {
     int x = 0;
-    int y = 20;
+    int y = 4;
     long long z = 1;  // menggunakan long long karena hasil perkalian bisa besar
 
     // Panggil fungsi hitung dengan pointer
